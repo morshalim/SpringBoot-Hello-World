@@ -7,6 +7,9 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
 	@RequestMapping(value = "/")
 	public String welCome() {
-		return "Hello World, this is sample project. Main application is comming soon";
+		return "Developed by Morshalim.\n"
+				+ "Original app is comming soon.\n"
+				+ "Mail me at morshalimshaikh@gmail.com for any query \n."
+				+ "Thank you.";
 	}
 }
