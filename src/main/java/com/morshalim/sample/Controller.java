@@ -9,7 +9,7 @@ public class Controller {
 	public String welCome() {
 		return "Developed by Morshalim.\n"
 				+ "Original app is comming soon.\n"
-				+ "Mail me at morshalimshaikh@gmail.com for any query \n."
+				+ "Mail me at iamonline@myself.com for any query \n."
 				+ "Thank you.";
 	}
 }
